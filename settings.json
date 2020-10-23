@@ -36,7 +36,8 @@
             "fontWeight": "normal",
             "scrollbarState": "hidden",
             "colorScheme": "Gruvbox",
-            "tabColor": "#1d2021"
+            "tabColor": "#1d2021",
+            "padding": "16, 16, 16, 16"
         },
         "list":
         [
