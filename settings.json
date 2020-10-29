@@ -31,7 +31,6 @@
         "defaults":
         {
             // Put settings here that you want to apply to all profiles.
-            "cursorShape": "bar",
             "fontSize": 12,
             "fontWeight": "normal",
             "scrollbarState": "hidden",
