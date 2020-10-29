@@ -123,27 +123,6 @@
             "brightWhite": "#ebdbb2",
             "background": "#1d2021",
             "foreground": "#fbf1c7"
-        },
-        {
-            "name": "Malcak",
-            "black": "#212121",
-            "red": "#b84131",
-            "green": "#7cc02d",
-            "yellow": "#d3931e",
-            "blue": "#4382d5",
-            "purple": "#ba8acc",
-            "cyan": "#207383",
-            "white": "#c8c8c8",
-            "brightBlack": "#7a7a7a",
-            "brightRed": "#d6837c",
-            "brightGreen": "#c4f137",
-            "brightYellow": "#fee14d",
-            "brightBlue": "#8dcff0",
-            "brightPurple": "#f79aff",
-            "brightCyan": "#6ad9cf",
-            "brightWhite": "#f7f7f7",
-            "background": "#101010",
-            "foreground": "#d9d9d9"
         }
     ],
     // Add custom actions and keybindings to this array.
